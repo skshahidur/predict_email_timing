@@ -23,7 +23,7 @@ To run the unittest for the solution
 
 ```
 $ cd ../pairfinance
-$ python -m unittest tests/test_something.py
+$ python -m unittest unit_test.py
 ```
 
 ## API calling using postman
@@ -33,5 +33,6 @@ In order to serve the solution locally, please run the python script named `serv
 $ cd ../pairfinance
 $ python serve.py
 ```
-The end point is at 
+The end point is at `http://127.0.0.1:5000/pairfinance`. Please follow the presentation folder for more details on this.
+
 
