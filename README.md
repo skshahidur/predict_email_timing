@@ -34,8 +34,8 @@ In order to serve the solution locally, please run the python script named `serv
 $ cd ../pairfinance
 $ python serve.py
 ```
-The end point is at `http://127.0.0.1:5000/pairfinance`. Please follow the presentation folder, `predict_email_timing/pairfinance/presentation/` for more details on this.
+The end point is at `http://127.0.0.1:5000/pairfinance`. Please follow the presentation, `predict_email_timing/pairfinance/presentation/Predict_email_timing.pdf` for more details on this.
 
 
 ## Presentation
-The summary of the work is present inside the presentation folder `predict_email_timing/pairfinance/presentation/`.
+The summary of the work is present inside the presentation folder as `predict_email_timing/pairfinance/presentation/Predict_email_timing.pdf`.

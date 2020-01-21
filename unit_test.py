@@ -19,12 +19,12 @@ test_case_2 = {"id": None,
 class TestFinCrime(unittest.TestCase):
 
     def test_case_1_model(self):
-        self.assertEqual({'time': 17.461013793945312},
+        self.assertEqual({'time': 746.545654296875},
                          predictor(test_case_1)
                          )
 
     def test_case_2_model(self):
-        self.assertEqual({'time': 18.969951629638672},
+        self.assertEqual({'time': 816.1084594726562},
                          predictor(test_case_2)
                          )
 
