@@ -6,10 +6,11 @@ The solution includes the notebook, artifacts and the report file.
 * [Setup](#setup)
 * [Unittest](#unittest)
 * [API calling using postman](#postman)
+* [Presentation](#presentation)
 
 ## Overview
 The notebook contains the logic behind the solution. The final ML solution is packaged. It's suggested to intall the package before running the notebook. Please extract the data as well in `predict_email_timing/pairfinance/data/` folder.
-	
+
 ## Setup
 To run this project, install it locally using pip:
 
@@ -33,6 +34,8 @@ In order to serve the solution locally, please run the python script named `serv
 $ cd ../pairfinance
 $ python serve.py
 ```
-The end point is at `http://127.0.0.1:5000/pairfinance`. Please follow the presentation folder for more details on this.
+The end point is at `http://127.0.0.1:5000/pairfinance`. Please follow the presentation folder, `predict_email_timing/pairfinance/presentation/` for more details on this.
 
 
+## Presentation
+The summary of the work is present inside the presentation folder `predict_email_timing/pairfinance/presentation/`.
